@@ -1,0 +1,14 @@
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\bin\Debug\net6.0\School.ClassLibrary.deps.json
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\bin\Debug\net6.0\School.ClassLibrary.runtimeconfig.json
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\bin\Debug\net6.0\School.ClassLibrary.dll
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\bin\Debug\net6.0\School.ClassLibrary.pdb
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\obj\Debug\net6.0\School.ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\obj\Debug\net6.0\School.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\obj\Debug\net6.0\School.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\obj\Debug\net6.0\School.ClassLibrary.AssemblyInfo.cs
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\obj\Debug\net6.0\School.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\obj\Debug\net6.0\School.ClassLibrary.dll
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\obj\Debug\net6.0\refint\School.ClassLibrary.dll
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\obj\Debug\net6.0\School.ClassLibrary.pdb
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\obj\Debug\net6.0\School.ClassLibrary.genruntimeconfig.cache
+C:\Users\JOHNSON\source\repos\PostgreSQL.ClassLibrary\obj\Debug\net6.0\ref\School.ClassLibrary.dll
